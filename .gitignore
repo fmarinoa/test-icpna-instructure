@@ -38,3 +38,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Drivers ###
+drivers/chrome/chromedriver.exe
